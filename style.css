@@ -1,0 +1,12 @@
+/** @format */
+
+.results {
+	display: flex;
+	gap: 5rem;
+}
+
+.date,
+.time {
+	width: 20rem;
+	height: 5rem;
+}
